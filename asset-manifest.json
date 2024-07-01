@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Mech-Dech/static/css/main.1100b075.css",
-    "main.js": "/Mech-Dech/static/js/main.3622e073.js",
-    "service-worker.js": "/Mech-Dech/service-worker.js",
-    "static/media/SEGA.woff": "/Mech-Dech/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/Mech-Dech/index.html",
-    "main.1100b075.css.map": "/Mech-Dech/static/css/main.1100b075.css.map",
-    "main.3622e073.js.map": "/Mech-Dech/static/js/main.3622e073.js.map"
+    "main.css": "/MechDech/static/css/main.888c1a1a.css",
+    "main.js": "/MechDech/static/js/main.3622e073.js",
+    "service-worker.js": "/MechDech/service-worker.js",
+    "static/media/SEGA.woff": "/MechDech/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/MechDech/index.html",
+    "main.888c1a1a.css.map": "/MechDech/static/css/main.888c1a1a.css.map",
+    "main.3622e073.js.map": "/MechDech/static/js/main.3622e073.js.map"
   },
   "entrypoints": [
-    "static/css/main.1100b075.css",
+    "static/css/main.888c1a1a.css",
     "static/js/main.3622e073.js"
   ]
 }
